@@ -56,7 +56,9 @@ export function ProcessRegisterPage(req, res, next){
     let newUser = new User({
         username: req.body.username,
         emailAddress: req.body.emailAddress,
-        displayName: req.body.firstName + " " + req.body.lastName
+        displayName: req.body.firstName + " " + req.body.lastName,
+        phone: req.body.phone,
+        birthday: req.body.birthday
     });
 
     User.register(newUser, req.body.password, function(err){
