@@ -26,6 +26,10 @@ main{
 #copyright{
     color: snow;
 }
+
+.display_name{
+    color: blueviolet;
+}
 /*
 Common End----------------------------------
 */
@@ -611,4 +615,43 @@ Projects Page ------------------------------------
 
 /*
 Projects Page END------------------------------------
+*/
+
+
+
+/*
+Login Page ------------------------------------
+*/
+
+.login{
+    margin-top: 200px;
+}
+
+/*
+Login Page END------------------------------------
+*/
+
+/*
+Register Page ------------------------------------
+*/
+
+.register{
+    margin-top: 100px;
+}
+
+/*
+Register Page END------------------------------------
+*/
+
+
+/*
+Contacts Add/Edit Page ------------------------------------
+*/
+
+.edit-page{
+    margin-top: 180px;
+}
+
+/*
+Contacts Add/Edit END------------------------------------
 */
