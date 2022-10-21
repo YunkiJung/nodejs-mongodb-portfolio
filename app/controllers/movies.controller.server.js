@@ -1,3 +1,7 @@
+/*
+movies.controller.server.js YUN KI JUNG - 301189435 - Oct 21, 2022
+*/
+
 import movieModel from '../models/movies.js';
 
 import { UserDisplayName } from '../utils/index.js';

@@ -1,5 +1,5 @@
 /*
-app.js YUN KI JUNG - 301189435 - Oct 01, 2022
+app.js YUN KI JUNG - 301189435 - Oct 21, 2022
 */
 
 

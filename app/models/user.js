@@ -1,3 +1,7 @@
+/*
+user.js YUN KI JUNG - 301189435 - Oct 21, 2022
+*/
+
 import mongoose from "mongoose";
 import passportLocalMongoose from 'passport-local-mongoose';
 const { PassportLocalSchema } = mongoose;

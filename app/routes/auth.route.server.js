@@ -1,3 +1,7 @@
+/*
+auth.route.server.js YUN KI JUNG - 301189435 - Oct 21, 2022
+*/
+
 import {Router} from 'express';
 import { DisplayLoginPage, 
     DisplayRegisterPage, 
